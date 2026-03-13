@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vahana129/test0313.git/static/css/main.68b8d566.css",
+    "main.js": "/vahana129/test0313.git/static/js/main.c0cfb1f2.js",
+    "static/js/453.9e2eb6e1.chunk.js": "/vahana129/test0313.git/static/js/453.9e2eb6e1.chunk.js",
+    "static/media/logo.png": "/vahana129/test0313.git/static/media/logo.b739b30c66cf55f3c61f.png",
+    "index.html": "/vahana129/test0313.git/index.html",
+    "main.68b8d566.css.map": "/vahana129/test0313.git/static/css/main.68b8d566.css.map",
+    "main.c0cfb1f2.js.map": "/vahana129/test0313.git/static/js/main.c0cfb1f2.js.map",
+    "453.9e2eb6e1.chunk.js.map": "/vahana129/test0313.git/static/js/453.9e2eb6e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b8d566.css",
+    "static/js/main.c0cfb1f2.js"
+  ]
+}
